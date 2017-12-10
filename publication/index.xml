@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Aditi Ashutosh Mavalankar</title>
+    <link>https://aditimavalankar.github.io/publication/</link>
+    <description>Recent content in Publications on Aditi Ashutosh Mavalankar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aditi Ashutosh Mavalankar</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Does a Program Run? A Visual Model Based on Annotating Abstract Syntax Trees</title>
+      <link>https://aditimavalankar.github.io/publication/func/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/publication/func/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation of Quizzes and Solutions Based on Ontologies -- A Case for a Music Problem Generator</title>
+      <link>https://aditimavalankar.github.io/publication/t4e/</link>
+      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/publication/t4e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding (un)known opponent&#39;s game play, a real-life badminton eye tracking study</title>
+      <link>https://aditimavalankar.github.io/publication/eapcogsci/</link>
+      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/publication/eapcogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://aditimavalankar.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aditi Ashutosh Mavalankar</title>
+    <link>https://aditimavalankar.github.io/project/</link>
+    <description>Recent content in Projects on Aditi Ashutosh Mavalankar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aditi Ashutosh Mavalankar</copyright>
+    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hotel Recommendation System</title>
+      <link>https://aditimavalankar.github.io/project/hotel_recommendation/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/hotel_recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAT Solver</title>
+      <link>https://aditimavalankar.github.io/project/sat/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/sat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helpfulness prediction of Amazon reviews</title>
+      <link>https://aditimavalankar.github.io/project/258/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Deep Neural Networks using Automated Reasoning</title>
+      <link>https://aditimavalankar.github.io/project/sicun/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/sicun/</guid>
+      <description>&lt;p&gt;I recently started working with &lt;a href=&#34;https://scungao.github.io/&#34; target=&#34;_blank&#34;&gt;Prof. Sicun Gao&lt;/a&gt; on a project involving incorporating existing rules into a neural network for computer vision related tasks like object detection and tracking. Keep checking this page for further updates on code and results!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Political Social Networks</title>
+      <link>https://aditimavalankar.github.io/project/julian/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/julian/</guid>
+      <description>&lt;p&gt;I have always been extremely interested in studying politics and social networks. I am extremely fortunate to be working on a project with &lt;a href=&#34;http://cseweb.ucsd.edu/~jmcauley/&#34; target=&#34;_blank&#34;&gt;Prof. Julian McAuley&lt;/a&gt; in this area.&lt;/p&gt;
+
+&lt;p&gt;I am concentrating on the Indian political system in this project. To this, I first performed an exploratory analysis of the data I collected from the &lt;a href=&#34;http://eci.nic.in/eci_main1/statistical_reportge2014.aspx&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; of the Indian Government. This data contains the following details:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Member details
+
+&lt;ul&gt;
+&lt;li&gt;Name of member&lt;/li&gt;
+&lt;li&gt;Political Party&lt;/li&gt;
+&lt;li&gt;Constituency&lt;/li&gt;
+&lt;li&gt;State&lt;/li&gt;
+&lt;li&gt;Margin he/she won by&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Debate details
+
+&lt;ul&gt;
+&lt;li&gt;Date debate was held&lt;/li&gt;
+&lt;li&gt;Members who took part&lt;/li&gt;
+&lt;li&gt;Topics the debate involved&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have put together a dataset combining all these details. Furthermore, I performed a thorough analysis of the data, results and code for which can be found in &lt;a href=&#34;https://github.com/aditimavalankar/elec-pred&#34; target=&#34;_blank&#34;&gt;this Github repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The next step in this project, which I am working on, involves converting the data into a signed social network, and predicting interactions between members based on the graph structure and nature of the links in this graph. Local and global relevance of members, based on the number of times they interacted in the Parliament, the margin they won by in the elections, and the topics they talked about, will be used to predict interactions between members by employing principles of recommender systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Research Scholars Program, UC San Diego</title>
+      <link>https://aditimavalankar.github.io/project/ersp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/ersp/</guid>
+      <description>&lt;p&gt;Early Research Scholars Program is an initiative funded by the National Science Foundation and conducted by &lt;a href=&#34;https://sites.google.com/a/eng.ucsd.edu/alvarado/&#34; target=&#34;_blank&#34;&gt;Prof. Christine Alvarado&lt;/a&gt; at UC San Diego to encourage CS undergraduate students in their sophomore and junior years to pursue research in the field. Students work in groups of 4 for three academic quarters under the guidance of a faculty member in the CS department on their own research project. This involves submitting a research proposal at the end of the first quarter, implementing and evaluating it in the next two quarters, and presenting a poster at the end of the academic year.&lt;/p&gt;
+
+&lt;p&gt;It has been my honour to work with Prof. Alvarado on this project, and a great joy to have worked with some of the brightest undergraduates here at UC San Diego. Check out the projects and more program details &lt;a href=&#34;http://ersp.ucsd.edu/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Lab - IIIT-H Virtual Labs</title>
+      <link>https://aditimavalankar.github.io/project/musiclab/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/musiclab/</guid>
+      <description>&lt;p&gt;I worked as a Research Assistant in VLEAD at IIIT-Hyderabad under the guidance of &lt;a href=&#34;http://pascal.iiit.ac.in/~choppell/index.html&#34; target=&#34;_blank&#34;&gt;Prof. Venkatesh Choppella&lt;/a&gt;. My project involved building a &lt;a href=&#34;http://music.virtual-labs.ac.in/&#34; target=&#34;_blank&#34;&gt;virtual lab for Indian classical music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One set of experiments involved generating questions and answers automatically from a music ontology. This work was &lt;a href=&#34;https://aditimavalankar.github.io/publication/t4e/&#34; target=&#34;_blank&#34;&gt;published&lt;/a&gt; in the 7th IEEE International Conference on Technology for Education (T4E), 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
