@@ -111,6 +111,33 @@
     </item>
     
     <item>
+      <title>MiniSQL</title>
+      <link>https://aditimavalankar.github.io/project/sql/</link>
+      <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Named Entity Recognition in Twitter data</title>
+      <link>https://aditimavalankar.github.io/project/medical_ner_twitter/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/medical_ner_twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decaf Compiler</title>
+      <link>https://aditimavalankar.github.io/project/decaf/</link>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/decaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Music Lab - IIIT-H Virtual Labs</title>
       <link>https://aditimavalankar.github.io/project/musiclab/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
@@ -120,6 +147,42 @@
 
 &lt;p&gt;One set of experiments involved generating questions and answers automatically from a music ontology. This work was &lt;a href=&#34;https://aditimavalankar.github.io/publication/t4e/&#34; target=&#34;_blank&#34;&gt;published&lt;/a&gt; in the 7th IEEE International Conference on Technology for Education (T4E), 2015.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Arachnophobia</title>
+      <link>https://aditimavalankar.github.io/project/arachnophobia/</link>
+      <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/arachnophobia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Question Answering System</title>
+      <link>https://aditimavalankar.github.io/project/qa/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategezing the next move in Backgammon</title>
+      <link>https://aditimavalankar.github.io/project/backgammon/</link>
+      <pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/backgammon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swaraa: A Music Sharing App</title>
+      <link>https://aditimavalankar.github.io/project/swaraa/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/swaraa/</guid>
+      <description></description>
     </item>
     
   </channel>
