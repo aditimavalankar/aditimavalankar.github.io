@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -13,7 +11,7 @@
   <meta name="description" content="Masters in Computer Science">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://aditimavalankar.github.io/tags/coursework/">
+  <link rel="alternate" hreflang="en-us" href="https://aditimavalankar.github.io/project/graph-recommendation/">
 
   
   
@@ -57,22 +55,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://aditimavalankar.github.io/tags/coursework/">
+  <link rel="canonical" href="https://aditimavalankar.github.io/project/graph-recommendation/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Aditi Ashutosh Mavalankar">
-  <meta property="og:url" content="https://aditimavalankar.github.io/tags/coursework/">
-  <meta property="og:title" content="Coursework | Aditi Ashutosh Mavalankar">
-  <meta property="og:description" content="Masters in Computer Science">
+  <meta property="og:url" content="https://aditimavalankar.github.io/project/graph-recommendation/">
+  <meta property="og:title" content="Advanced Bayesian Methods for Graph-based Recommendations | Aditi Ashutosh Mavalankar">
+  <meta property="og:description" content=""><meta property="og:image" content="https://aditimavalankar.github.io/img/291-b.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2017-12-26T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2017-12-26T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2017-12-26T00:00:00&#43;00:00">
   
 
   
 
-  <title>Coursework | Aditi Ashutosh Mavalankar</title>
+  <title>Advanced Bayesian Methods for Graph-based Recommendations | Aditi Ashutosh Mavalankar</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -213,58 +213,89 @@
 </nav>
 
 
-
-
-
-<div class="universal-wrapper">
-
-  <h2>Coursework</h2>
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
   
+<div class="article-header">
+  <img src="/img/291-b.png" class="article-banner" itemprop="image">
+  
+</div>
 
-  
-  
-  <div>
-    <h4><a href="https://aditimavalankar.github.io/project/graph-recommendation/">Advanced Bayesian Methods for Graph-based Recommendations</a></h4>
-    <div class="article-style">
-      
-      Extending a RecSys 2016 paper on Bayesian methods for graph-based recommendation
-      
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">Advanced Bayesian Methods for Graph-based Recommendations</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        
+
+      </span>
     </div>
-  </div>
-  
-  <div>
-    <h4><a href="https://aditimavalankar.github.io/project/hotel_recommendation/">Hotel Recommendation System</a></h4>
-    <div class="article-style">
-      
-      Recommending hotels to users of Expedia by using features such as price, location, etc.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h4><a href="https://aditimavalankar.github.io/project/sat/">SAT Solver</a></h4>
-    <div class="article-style">
-      
-      Solvers for the famous boolean satisfiability problem
-      
-    </div>
-  </div>
-  
-  <div>
-    <h4><a href="https://aditimavalankar.github.io/project/258/">Helpfulness prediction of Amazon reviews</a></h4>
-    <div class="article-style">
-      
-      Predicting whether a review is helpful or not for a large number of items in the Amazon dataset
-      
-    </div>
-  </div>
-  
 
-  
+    
 
+    <div class="article-style" itemprop="articleBody">
+      <p>This project (done by a team of 3 members) extends the work done by Lopes et al. in their paper &lsquo;Efficient Bayesian Methods for Graph-based Recommendation&rsquo;. The authors suggest 3-step paths from the target user to each candidate item, and then use probabilistic methods to rank all these candidate items for recommendation.</p>
+
+<p>We incorporate the basic idea of quantifying similarity between users and items into the existing ranking methods that the original paper uses. Our results show an improvement over the performance of the original paper in all 4 metrics that the authors have used. We perform ablation experiments to see which similarity/similarities will result in the highest improvement over the baseline performance. We also use a user reliability score, which is a global measure for every user, but that leads to a decrease in performance as it is highly generalized.</p>
+
+<p>We repeat the same set of experiments for 2 datasets, in order to establish the generic nature of our extensions. Our baseline performance matches that of the original paper, which validates our implementation. The results obtained for both these datasets are comparable, and this shows the robustness of our added measures of user-user similarity and item-item similarity.</p>
+
+<p>For the code, please visit <a href="https://github.com/syychen/fast_bayesian_graph_recommender/" target="_blank">this Github page</a>. The report can be found <a href="https://github.com/syychen/fast_bayesian_graph_recommender/blob/master/advanced-bayesian-methods.pdf" target="_blank">here</a>.</p>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="btn btn-primary btn-outline" href="/tags/recommender-systems">recommender-systems</a>
+  
+  <a class="btn btn-primary btn-outline" href="/tags/machine-learning">machine-learning</a>
+  
+  <a class="btn btn-primary btn-outline" href="/tags/coursework">coursework</a>
+  
+</div>
+
+
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+
+      
+      
+      
+      
+    
+
+  </div>
+</article>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="https://aditimavalankar.github.io/project/hotel_recommendation/"><span
+      aria-hidden="true">&larr;</span> Hotel Recommendation System</a></li>
+    
+
+    
+  </ul>
+</nav>
 
 </div>
+
 <footer class="site-footer">
   <div class="container">
     <p class="powered-by">
@@ -347,6 +378,4 @@
 
   </body>
 </html>
-
-
 
