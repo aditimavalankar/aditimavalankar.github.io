@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>Hotel Recommendation System</title>
-      <link>https://aditimavalankar.github.io/project/hotel_recommendation/</link>
-      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://aditimavalankar.github.io/project/hotel_recommendation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SAT Solver</title>
       <link>https://aditimavalankar.github.io/project/sat/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
@@ -99,6 +90,15 @@
     </item>
     
     <item>
+      <title>Hotel Recommendation System</title>
+      <link>https://aditimavalankar.github.io/project/hotel_recommendation/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/hotel_recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Early Research Scholars Program, UC San Diego</title>
       <link>https://aditimavalankar.github.io/project/ersp/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -159,6 +159,18 @@
     </item>
     
     <item>
+      <title>Eye-tracking in Badminton Players</title>
+      <link>https://aditimavalankar.github.io/project/eyetracking/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/eyetracking/</guid>
+      <description>&lt;p&gt;I worked as an Honours student in the Cognitive Science Lab, under the guidance of &lt;a href=&#34;https://faculty.iiit.ac.in/~kvemuri/&#34; target=&#34;_blank&#34;&gt;Dr. Kavita Vemuri&lt;/a&gt; from July 2014 to May 2016. My project involved studying the visual movements of badminton players, and observing the differences in durations and gaze patterns between expert and novice players. This work was &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;published&lt;/a&gt; in the &lt;a href=&#34;http://www.aisc-net.org/home/2014/12/15/call-for-papers-eapcogsci-2015-torino/&#34; target=&#34;_blank&#34;&gt;EuroAsianPacific Joint Conference on Cognitive Science, 2015&lt;/a&gt;, held at Torino, Italy.&lt;/p&gt;
+
+&lt;p&gt;In particular, we focused on heat maps for gaze durations, and used rallies to observe the transitions in gaze. Our analysis reveals that expert players have different visual movements, when responding to players of different levels, compared to novice players. Also, the gaze durations show that expert players tend to shift focus to the torso/legs of the opponent sooner than novice players, who generally keep looking at the shuttle. For further extensions to this study, please contact &lt;a href=&#34;kvemuri[at]iiit[dot]ac[dot]in&#34; target=&#34;_blank&#34;&gt;Dr. Kavita Vemuri&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Question Answering System</title>
       <link>https://aditimavalankar.github.io/project/qa/</link>
       <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
@@ -173,15 +185,6 @@
       <pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://aditimavalankar.github.io/project/backgammon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swaraa: A Music Sharing App</title>
-      <link>https://aditimavalankar.github.io/project/swaraa/</link>
-      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://aditimavalankar.github.io/project/swaraa/</guid>
       <description></description>
     </item>
     

@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>Hotel Recommendation System</title>
-      <link>https://aditimavalankar.github.io/project/hotel_recommendation/</link>
-      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://aditimavalankar.github.io/project/hotel_recommendation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SAT Solver</title>
       <link>https://aditimavalankar.github.io/project/sat/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
@@ -96,6 +87,15 @@
 
 &lt;p&gt;The next step in this project, which I am working on, involves converting the data into a signed social network, and predicting interactions between members based on the graph structure and nature of the links in this graph. Local and global relevance of members, based on the number of times they interacted in the Parliament, the margin they won by in the elections, and the topics they talked about, will be used to predict interactions between members by employing principles of recommender systems.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Hotel Recommendation System</title>
+      <link>https://aditimavalankar.github.io/project/hotel_recommendation/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditimavalankar.github.io/project/hotel_recommendation/</guid>
+      <description></description>
     </item>
     
     <item>
